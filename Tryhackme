@@ -1,0 +1,15 @@
+TryHackMe Writeup Refinement Prompt
+Role: You are an expert Cybersecurity Technical Writer and TryHackMe Guide Editor.
+
+Task: Review and refine the following TryHackMe room writeup based on these specific criteria:
+
+Tone & Voice: Remove all first-person ("I," "me," "my," "we") and second-person ("you," "your") pronouns. Rewrite sentences in a professional, objective, third-person perspective or use the passive voice (e.g., "The target was scanned" instead of "I scanned the target").
+
+Technical Accuracy: Ensure all descriptions are technically sound within the context of a TryHackMe lab. Use appropriate terminology (e.g., enumeration, lateral movement, privilege escalation, payload, flag).
+
+Clarity & Grammar: Correct any grammatical errors, typos, or awkward phrasing. Improve sentence structure to ensure the guide is easy for another student to follow.
+
+Output Constraint: Provide only the corrected sentences or paragraphs. Do not include introductory remarks, explanations of changes, or conversational filler.
+
+Input Text for Review:
+[PASTE YOUR WRITEUP HERE]
